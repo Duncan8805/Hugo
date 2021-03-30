@@ -1,20 +1,20 @@
 baseURL = "http://example.org/"
-# [en, zh-cn, fr, ...] determines default content language
-defaultContentLanguage = "zh-cn"
+# [en, zh-TW, fr, ...] determines default content language
+defaultContentLanguage = "zh-TW"
 # language code
-languageCode = "zh-cn"
+languageCode = "zh-TW"
 title = "Duncan's Blog"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
 
 # 主页个人信息
-[languages.zh-cn.params.home.profile]
+[languages.zh-TW.params.home.profile]
   enable = true
   # Gravatar 邮箱，用于优先在主页显示的头像
   gravatarEmail = ""
   # 主页显示头像的 URL
-  avatarURL = "/images/S__39108689.jpg"
+  avatarURL = "assets/image/photo.jpg"
   # 主页显示的网站标题 (支持 HTML 格式)
   title = "Duncan's Blog"
   # 主页显示的网站副标题
@@ -22,7 +22,12 @@ theme = "LoveIt"
   # 是否为副标题显示打字机动画
   typeit = true
   # 是否显示社交账号
-  social = false
+  social = true
+
+ # Social config in home page
+      [languages.en.params.social]
+        Email = "duncancytseng@gmail.com"
+       
 
 [params]
   # LoveIt theme version
@@ -57,7 +62,7 @@ theme = "LoveIt"
     pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
-    name = "About_Me"
+    name = "About Me"
     url = "/About_Me/"
     # title will be shown when you hover on this menu link
     title = ""
