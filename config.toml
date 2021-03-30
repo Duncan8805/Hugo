@@ -22,12 +22,7 @@ theme = "LoveIt"
   # 是否为副标题显示打字机动画
   typeit = true
   # 是否显示社交账号
-  social = true
-
- # Social config in home page
-      [languages.en.params.social]
-        Email = "duncancytseng@gmail.com"
-       
+  social = false
 
 [params]
   # LoveIt theme version
