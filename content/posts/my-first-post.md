@@ -1,7 +1,8 @@
 ---
-title: "HUGO 架設完成！"
-date: 2021-03-29T23:00:46+08:00
-draft: false
+title: HUGO 架設完成！
+date: 2021-03-29T23:00:46.000+08:00
+draft: true
+
 ---
 # Dillinger
 ## _The Last Markdown Editor, Ever_
@@ -195,4 +196,3 @@ MIT
    [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
    [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
    [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
-
