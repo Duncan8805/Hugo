@@ -7,5 +7,14 @@ fields:
   config:
     required: false
   label: Title
+- name: date
+  type: datetime
+  label: DATE
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 pages:
 - content/posts/ToKnowJSON.md
