@@ -1,7 +1,6 @@
 ---
 title: HUGO 架設完成！
 date: 2021-03-29T23:00:46.000+08:00
-draft: true
 
 ---
 # Dillinger
