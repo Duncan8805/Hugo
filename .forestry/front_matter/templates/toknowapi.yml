@@ -1,6 +1,11 @@
 ---
 label: ToKnowApi
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
 pages:
 - content/posts/ToKnowJSON.md
