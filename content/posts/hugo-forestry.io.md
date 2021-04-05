@@ -1,6 +1,5 @@
 +++
 date = 2021-04-04T16:00:00Z
-draft = true
 title = "[手把手教學]Hugo+forestry.io 後臺管理"
 
 +++
