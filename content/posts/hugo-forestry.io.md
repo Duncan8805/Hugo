@@ -22,3 +22,9 @@ title = "[手把手教學]Hugo+forestry.io 後臺管理"
 接下來我們選擇我們的Respository
 
 ![](/uploads/3.PNG)
+
+恭喜你，這樣我們就完成啦！！
+
+![](/uploads/4.PNG)
+
+下一篇文章，我會教你如何在Forestry.io新增文章噢
