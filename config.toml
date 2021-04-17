@@ -42,14 +42,6 @@ title = ""
 url = "/tags/"
 weight = 3
 [[menu.main]]
-identifier = "about"
-name = "關於我"
-post = ""
-pre = ""
-title = ""
-url = "/about/"
-weight = 2
-[[menu.main]]
 identifier = "posts"
 name = "Posts"
 post = ""
