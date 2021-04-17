@@ -7,9 +7,9 @@ title = "About Me"
 
 # 曾辰宇
 
-\#工作經歷
+### 專業技能
 
-> 全端工程師/凡達科技有限公司
+## 全端工程師/凡達科技有限公司
 
 2020/03\~Now
 
@@ -24,13 +24,13 @@ title = "About Me"
 * 網站頁面規劃設計及切版
 * 串接後端Api並進行相關程式碼維護
 
-### #專業技能
+### 專業技能
 
 * 前端：HTML、CSS、JavaScript、BootStrap、JQuery、Angular、API串接
 * 全端：Asp.Net、Asp.Net Core MVC
 * 資料庫：MySQL
 
-### #開發實績
+### 開發實績
 
 [台日官網]()
 
