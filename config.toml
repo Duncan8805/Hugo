@@ -34,13 +34,17 @@ Email = "duncnacytseng@gmail.com"
 [markup.highlight]
 noClasses = false
 [[menu.main]]
+name = "關於我"
+url = "/about/"
+weight = 3
+[[menu.main]]
 identifier = "tags"
 name = "標籤"
 post = ""
 pre = ""
 title = ""
 url = "/tags/"
-weight = 3
+weight = 2
 [[menu.main]]
 identifier = "posts"
 name = "Posts"
